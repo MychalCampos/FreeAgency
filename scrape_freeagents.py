@@ -2,6 +2,8 @@
 """
 Created on Thu Jul 09 20:57:59 2015
 scraping data on NBA free agency transactions from www.sportrac.com
+This code is really ugly and I'm still trying to get a better handle on 
+BeautifulSoup. My first attempt at webscraping on new data.
 @author: Mychal
 """
 # import os
